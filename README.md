@@ -1,16 +1,47 @@
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Xeven777&label=Profile%20views&color=0e75b6&style=flat" alt="Xeven777" /> </p>
+<h1 align="center">Hello👋,Folks!</h1>
+<h2 align="center">I am Anish Biswas. Currently pursuing B.TECH in CSE at Techno Main Salt Lake.</h2>
+<br/>
 
-<!--
-**Xeven777/Xeven777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+### 🔴 Tech enthusiast<br>
+### 🟡 Busy with C & Python<br>
+### 🟢 Ask me anything related to A.I <br>
+### 🔵 Loves Football and produces music too <br>
+<br/>
 
-Here are some ideas to get you started:
+## 🌐 Socials:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anish_biswas_7_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-biswas-767533254/)
+<br/>
+
+
+## ⚙ Tech Stack:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skills.thijs.gg/icons?i=c,cpp,html,css,py,linux" />
+  </a>
+</p>
+<br/>
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Xeven777&theme=jolly&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Xeven777&theme=jolly&hide_border=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeven777&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Xeven777&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+<br/>
+
+## ✍️ Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+---
