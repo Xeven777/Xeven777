@@ -14,6 +14,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anish_biswas_7_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-biswas-767533254/)
+[![Spotify](https://img.shields.io/badge/Spotify-%230077B5.svg?logo=spotify&logoColor=white)](https://open.spotify.com/artist/0Pojk6NLeUAlYoGV38IPvP?si=nIPbuelNTS-N7q1LL4mWYg)
 <br/>
 
 
