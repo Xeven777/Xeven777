@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 ### 🔴 Tech enthusiast<br>
-### 🟡 Busy with C & Python<br>
+### 🟡 Busy with C & Python & Web Dev<br>
 ### 🟢 Ask me anything related to A.I <br>
 ### 🔵 Loves Football and produces music too <br>
 <br/>
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills.thijs.gg/icons?i=c,cpp,html,css,py,linux" />
+    <img src="https://skills.thijs.gg/icons?i=c,cpp,html,css,js,py,linux" />
   </a>
 </p>
 <br/>
