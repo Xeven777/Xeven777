@@ -16,7 +16,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-biswas-767533254/)
 [![Spotify](https://img.shields.io/badge/Spotify-%230077B5.svg?logo=spotify&logoColor=green)](https://open.spotify.com/artist/0Pojk6NLeUAlYoGV38IPvP?si=nIPbuelNTS-N7q1LL4mWYg)
 <br/>
-
+## Badges
+[![An image of @xeven777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xeven777)](https://holopin.io/@xeven777)
 
 ## ⚙ Tech Stack:
 
