@@ -1,8 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Xeven777&label=Profile%20views&color=0e75b6&style=flat" alt="Xeven777" /> </p>
 <h1 align="center">Hello👋,Folks!</h1>
 <h2 align="center">I am Anish Biswas. Currently pursuing B.TECH in CSE at Techno Main Salt Lake.</h2>
-# 💫 About Me:
-Hey ! I'm Anish<br>I'm currently working on WebDev projects.<br>Learning React, Next & C.<br>I love playing football and producing music too :)  
+
+## 💫 About Me:
+### Hey ! I'm Anish<br>I'm currently working on WebDev projects.<br>Learning React, Next & C.<br>I love playing football and producing music too :)  
 
 
 ## 🌐 Socials:
