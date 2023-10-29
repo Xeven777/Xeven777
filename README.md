@@ -3,7 +3,7 @@
 <h2 align="center">I am Anish Biswas. Currently pursuing B.TECH in CSE at Techno Main Salt Lake.</h2>
 
 ## 💫 About Me:
-### Hey ! I'm Anish<br>I'm currently working on WebDev projects.<br>Learning React, Next & C.<br>I love playing football and producing music too :)  
+### I'm currently working on WebDev projects.<br>Learning React, Next & C.<br>I love playing football and producing music too :)  
 
 
 ## 🌐 Socials:
