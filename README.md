@@ -1,9 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Xeven777&label=Profile%20views&color=0e75b6&style=flat" alt="Xeven777" /> </p>
-<h1 align="center">Hello👋,Folks!</h1>
-<h2 align="center">I am Anish Biswas. Currently pursuing B.TECH in CSE at Techno Main Salt Lake.</h2>
+<p><h1 align="center" style="text-decoration: none; cursor: none;">Hello Guys👋<br/></h1>
+<h2 align="center">I am Anish Biswas. Currently pursuing B.TECH in CSE at Techno Main Salt Lake.</h2></p>
 
 ## 💫 About Me:
-### I'm currently working on WebDev projects.<br>Learning React, Next & C.<br>I love playing football and producing music too :)  
+### I'm currently working on WebDev projects.<br>Learning React, Next.js, GSAP,Three.js,Astro and a lot more!<br>I love playing football and producing music too :)  
 
 
 ## 🌐 Socials:
@@ -15,6 +15,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=Xeven777&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Xeven777&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeven777&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Xeven777&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
