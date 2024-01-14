@@ -89,9 +89,9 @@
 
 ###
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Xeven777&theme=merko&hide_border=false&include_all_commits=true&count_private=true) 
+![](https://github-readme-stats.vercel.app/api?username=Xeven777&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
 [![anish77's GitHub | Stats](https://stats.quine.sh/anish77/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anish77)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Xeven777&theme=merko&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?username=Xeven777&theme=merko&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeven777&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Badges
@@ -107,9 +107,9 @@
 
 ### Last Listened to :
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/31vzsladd5jbnxtgtmtnkml45km4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vzsladd5jbnxtgtmtnkml45km4&count=3&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vzsladd5jbnxtgtmtnkml45km4&count=7&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
