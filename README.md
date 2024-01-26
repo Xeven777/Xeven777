@@ -124,4 +124,4 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Xeven777&icon=6&color=9)](https://visitcount.itsvg.in)
+<img src="https://widgetbite.com/stats/Xeven777" alt="watching_count" />
