@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Xeven777&label=Profile%20views&color=0e75b6&style=flat" alt="Xeven777" /> </p>
+<img src="https://widgetbite.com/stats/Xeven777" alt="watching_count" />
 <div align="center">
   <img height="167" src="https://i.postimg.cc/DZnhjwcV/Picsart-23-04-29-21-15-27-064.jpg"  />
 </div>
@@ -124,4 +124,4 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-<img src="https://widgetbite.com/stats/Xeven777" alt="watching_count" />
+
