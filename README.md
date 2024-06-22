@@ -6,11 +6,21 @@
 <h2 align="center">I am Anish Biswas. Currently pursuing B.TECH in CSE at Techno Main Salt Lake.</h2></p>
 
 ## 💫 About Me:
-### I'm currently working on WebDev projects.<br>Learning React, Next.js, GSAP,Three.js,Astro and a lot more!<br>I love playing football and producing music too :)  
+### I'm currently working on WebDev projects.<br>Learning React, Next.js, GSAP, Three.js, Astro and a lot more!<br>I love playing football and producing music too :)  
+
+## Projects:
+| Project Name                                               | Description                  |
+| ---------------------------------------------------------- | ---------------------------- |
+| [Lazor](https://lazor.vercel.app/)               | Event management website          |
+| [WishBday](https://wishbday.me/)      | Customised HBday websites for your closed ones :)    |
+| [Blastro](https://blastro.netlify.app/)      | My personal blog     |
+| [Space Deck](https://space-deck.netlify.app/)      | Nasa's Image of the Day   |
+
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anish_biswas_7_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anishbiswas777) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xevenbiswas) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anish_biswas_7_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anishbiswas777) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xevenbiswas)
+
 
 # 💻 Tech Stack:
 
@@ -48,7 +58,7 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
-    <img width="12" />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
