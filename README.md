@@ -13,17 +13,27 @@
 | ---------------------------------------------------------- | ---------------------------- |
 | [Lazor](https://lazor.vercel.app/)               | Event management website          |
 | [BloxAI](https://blox-ai.vercel.app/)      | Diagrams and Flowcharts powered By AI    |
+| [Ryzz](https://ryzz.vercel.app/)     | Trending Anonymous messaging App  |
 | [WishBday](https://wishbday.me/)      | Customised HBday websites for your closed ones :)    |
+| [Ask Your Love ](https://github.com/Xeven777/valentine2)  | Ask your/crush in a cute way through this website  |
+| [Eclectica](https://eclecticatmsl.tech/)    | Official site of Eclectica TMSL     |
+| [Groq AI](https://groq-ai.vercel.app/)     | AI chatbot powered by Groq  |
+| [StarDev](https://stardev.vercel.app/) | Create Unique Github Portfolio in seconds! |
 | [Blastro](https://blastro.netlify.app/)      | My personal blog     |
+| [Inotes](https://inotes-gpt.vercel.app/)             | Note Taking app with AI chatbot         |
+|[AI Sticker Maker ](https://sticker-gen.vercel.app/)|Create Unique stickers using AI | 
 | [Space Deck](https://space-deck.netlify.app/)      | Nasa's Image of the Day   |
 | [Gemini Chat App](https://geminix-pro.vercel.app/)               | AI Chatbot (powered by Gemini)          |
 | [Syntalix](https://www.syntalixai.in/)      | Syntalix.AI official website   |
-| [Eclectica](https://eclecticatmsl.tech/)    | Official site of Eclectica TMSL     |
-| [Groq AI](https://groq-ai.vercel.app/)     | AI chatbot powered by Groq  |
 | [Anish Is Listening to](https://anish-is-listening-to.vercel.app/)             | Fetches the songs im listening through Spotify          |
 | [Simplifyy](https://simplifyy.vercel.app/)      | URL shortener and QR generator   |
-| [TicTacToe](https://tic-tac-toe-next.netlify.app/)    | A small tictactoe game in NextJS     |
+| [PricePulse](https://price-trackerx.vercel.app/)    | Amazon Price Tracker   |
+|[Dall-e7](https://dall-e7.vercel.app/)| Create Images from text prompts|
+| [Certificate Generator](https://certificate-gen.netlify.app/)    | Generate a special certificate for yourself!   |
+| [Ada-7X ](https://ada-7x.netlify.app/)   |   Article summarizer by AI   |
 | [Guess The number](https://guess-d-num.netlify.app/)     | A mini game Squid Game themed   |
+| [Weather](https://yo-weather.vercel.app/)     | Weather app in react   |
+| [Gemini Astrologer](https://gemini-the-astro.vercel.app/)   | AI astrologer     |
 
 
 
