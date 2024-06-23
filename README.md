@@ -12,9 +12,19 @@
 | Project Name                                               | Description                  |
 | ---------------------------------------------------------- | ---------------------------- |
 | [Lazor](https://lazor.vercel.app/)               | Event management website          |
+| [BloxAI](https://blox-ai.vercel.app/)      | Diagrams and Flowcharts powered By AI    |
 | [WishBday](https://wishbday.me/)      | Customised HBday websites for your closed ones :)    |
 | [Blastro](https://blastro.netlify.app/)      | My personal blog     |
 | [Space Deck](https://space-deck.netlify.app/)      | Nasa's Image of the Day   |
+| [Gemini Chat App](https://geminix-pro.vercel.app/)               | AI Chatbot (powered by Gemini)          |
+| [Syntalix](https://www.syntalixai.in/)      | Syntalix.AI official website   |
+| [Eclectica](https://eclecticatmsl.tech/)    | Official site of Eclectica TMSL     |
+| [Groq AI](https://groq-ai.vercel.app/)     | AI chatbot powered by Groq  |
+| [Anish Is Listening to](https://anish-is-listening-to.vercel.app/)             | Fetches the songs im listening through Spotify          |
+| [Simplifyy](https://simplifyy.vercel.app/)      | URL shortener and QR generator   |
+| [TicTacToe](https://tic-tac-toe-next.netlify.app/)    | A small tictactoe game in NextJS     |
+| [Guess The number](https://guess-d-num.netlify.app/)     | A mini game Squid Game themed   |
+
 
 
 
