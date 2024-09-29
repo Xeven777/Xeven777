@@ -151,11 +151,12 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Xeven777&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
-<!-- BIRTHDAY_MESSAGE_START -->
-### 68 days left until Anish's birthday!
-<!-- BIRTHDAY_MESSAGE_END -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+
+<!-- BIRTHDAY_MESSAGE_START -->
+### 68 days left until Anish's birthday!
+<!-- BIRTHDAY_MESSAGE_END -->
 ---
