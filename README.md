@@ -8,6 +8,9 @@
 ## 💫 About Me:
 ### I'm currently working on WebDev projects.<br>Learning React, Next.js, GSAP, Three.js, Astro and a lot more!<br>I love playing football and producing music too :)  
 
+<img src="https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fbento_1730542879292.png?alt=media&token=95d0f128-3f64-4607-b7fc-3b61d4151ee2"/>
+
+
 ## Projects:
 | Project Name                                               | Description                  |
 | ---------------------------------------------------------- | ---------------------------- |
