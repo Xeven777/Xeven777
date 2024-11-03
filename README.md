@@ -1,5 +1,4 @@
 <img src="https://widgetbite.com/stats/Xeven777" alt="watching_count" />
-<img src="https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento2%2Fbento_1730549547889.png?alt=media&token=4ff8042d-b07d-4719-8f2a-4bbdbb89862a"/>
 
 <p><h1 align="center" style="text-decoration: none; cursor: none;">Hello Guys👋<br/></h1>
 <h2 align="center">I am Anish Biswas. Currently pursuing B.TECH in CSE at Techno Main Salt Lake.</h2></p>
