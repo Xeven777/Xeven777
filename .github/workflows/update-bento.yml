@@ -2,7 +2,7 @@ name: Daily OP-Bento image Update
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */5 * * *"
 jobs:
   update-readme:
     runs-on: ubuntu-latest
