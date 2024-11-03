@@ -1,0 +1,23 @@
+name: Daily OP-Bento image Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Bun & run
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Commit and Push Changes
+        run: |
+          bun getNewBento.ts
+          git add .
+          git commit -m "Update README with latest Bento stats image on $(date -u +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
+          git push
