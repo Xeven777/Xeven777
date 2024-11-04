@@ -1,4 +1,4 @@
-const apiUrl = "https://opbento.edgexhq.tech/api/bento?name=Anish%20Biswas&githubURL=Xeven777&twitterURL=xevenbiswas&linkedinURL=anishbiswas777&imageUrl=https%3A%2F%2Fblastro.netlify.app%2Fassets%2Fanish.webp&portfolioUrl=anish7.me&z=65ab3";
+const apiUrl = "https://opbento.edgexhq.tech/api/bento?n=Anish%20Biswas&g=xeven777&x=xevebiswas&l=anishbiswas777&i=https%3A%2F%2Fblastro.netlify.app%2Fassets%2Fanish.webp&p=anish7.me&z=a3a2f";
 interface BentoResponse {
   url: string;
 }
