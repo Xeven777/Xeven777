@@ -123,8 +123,6 @@
 
 ###
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Xeven777&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xeven777&theme=tokyonight" alt="mystreak"/>
 [![anish77's GitHub | Stats](https://stats.quine.sh/anish77/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anish77)
 ![](https://github-readme-streak-stats.herokuapp.com/?username=Xeven777&theme=merko&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeven777&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
