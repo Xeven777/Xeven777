@@ -161,6 +161,6 @@
 
 
 <!-- BIRTHDAY_MESSAGE_START -->
-### 9 days left until Anish's birthday!
+### 8 days left until Anish's birthday!
 <!-- BIRTHDAY_MESSAGE_END -->
 ---
