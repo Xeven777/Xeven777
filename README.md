@@ -161,6 +161,6 @@
 
 
 <!-- BIRTHDAY_MESSAGE_START -->
-### 1 days left until Anish's birthday!
+## Today's Anish's Birthday!✨🥳🥳
 <!-- BIRTHDAY_MESSAGE_END -->
 ---
