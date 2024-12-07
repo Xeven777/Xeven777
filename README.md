@@ -161,6 +161,6 @@
 
 
 <!-- BIRTHDAY_MESSAGE_START -->
-## Today's Anish's Birthday!✨🥳🥳
+### 364 days left until Anish's birthday!
 <!-- BIRTHDAY_MESSAGE_END -->
 ---
