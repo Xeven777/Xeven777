@@ -5,46 +5,41 @@
 <p><h1 align="center" style="text-decoration: none; cursor: none;">Hello Guys👋<br/></h1>
 <h2 align="center">I am Anish Biswas. Currently pursuing B.TECH in CSE at Techno Main Salt Lake.</h2></p>
 
-
-
 ## 💫 About Me:
-### I'm currently working on WebDev projects.<br>Learning React, Next.js, GSAP, Three.js, Astro and a lot more!<br>I love playing football and producing music too :)  
 
-
+### I'm currently working on WebDev projects.<br>Learning React, Next.js, GSAP, Three.js, Astro and a lot more!<br>I love playing football and producing music too :)
 
 ## Projects:
-| Project Name                                               | Description                  |
-| ---------------------------------------------------------- | ---------------------------- |
-| [Lazor](https://lazor.vercel.app/)               | Event management website          |
-| [BloxAI](https://blox-ai.vercel.app/)      | Diagrams and Flowcharts powered By AI    |
-| [Ryzz](https://ryzz.vercel.app/)     | Trending Anonymous messaging App  |
-| [WishBday](https://wishbday.me/)      | Customised HBday websites for your closed ones :)    |
-| [Ask Your Love ](https://github.com/Xeven777/valentine2)  | Ask your/crush in a cute way through this website  |
-| [Eclectica](https://eclecticatmsl.tech/)    | Official site of Eclectica TMSL     |
-| [Groq AI](https://groq-ai.vercel.app/)     | AI chatbot powered by Groq  |
-| [StarDev](https://stardev.vercel.app/) | Create Unique Github Portfolio in seconds! |
-| [Blastro](https://blastro.netlify.app/)      | My personal blog     |
-| [Inotes](https://inotes-gpt.vercel.app/)             | Note Taking app with AI chatbot         |
-|[AI Sticker Maker ](https://sticker-gen.vercel.app/)|Create Unique stickers using AI | 
-| [Space Deck](https://space-deck.netlify.app/)      | Nasa's Image of the Day   |
-| [Gemini Chat App](https://geminix-pro.vercel.app/)               | AI Chatbot (powered by Gemini)          |
-| [Syntalix](https://www.syntalixai.in/)      | Syntalix.AI official website   |
-| [Anish Is Listening to](https://anish-is-listening-to.vercel.app/)             | Fetches the songs im listening through Spotify          |
-| [Simplifyy](https://simplifyy.vercel.app/)      | URL shortener and QR generator   |
-| [PricePulse](https://price-trackerx.vercel.app/)    | Amazon Price Tracker   |
-|[Dall-e7](https://dall-e7.vercel.app/)| Create Images from text prompts|
-| [Certificate Generator](https://certificate-gen.netlify.app/)    | Generate a special certificate for yourself!   |
-| [Ada-7X ](https://ada-7x.netlify.app/)   |   Article summarizer by AI   |
-| [Guess The number](https://guess-d-num.netlify.app/)     | A mini game Squid Game themed   |
-| [Weather](https://yo-weather.vercel.app/)     | Weather app in react   |
-| [Gemini Astrologer](https://gemini-the-astro.vercel.app/)   | AI astrologer     |
 
-
-
+| Project Name                                                       | Description                                       |
+| ------------------------------------------------------------------ | ------------------------------------------------- |
+| [Lazor](https://lazor.vercel.app/)                                 | Event management website                          |
+| [BloxAI](https://blox-ai.vercel.app/)                              | Diagrams and Flowcharts powered By AI             |
+| [Ryzz](https://ryzz.vercel.app/)                                   | Trending Anonymous messaging App                  |
+| [WishBday](https://wishbday.me/)                                   | Customised HBday websites for your closed ones :) |
+| [Ask Your Love ](https://github.com/Xeven777/valentine2)           | Ask your/crush in a cute way through this website |
+| [Eclectica](https://eclecticatmsl.tech/)                           | Official site of Eclectica TMSL                   |
+| [Groq AI](https://groq-ai.vercel.app/)                             | AI chatbot powered by Groq                        |
+| [StarDev](https://stardev.vercel.app/)                             | Create Unique Github Portfolio in seconds!        |
+| [Blastro](https://blastro.netlify.app/)                            | My personal blog                                  |
+| [Inotes](https://inotes-gpt.vercel.app/)                           | Note Taking app with AI chatbot                   |
+| [AI Sticker Maker ](https://sticker-gen.vercel.app/)               | Create Unique stickers using AI                   |
+| [Space Deck](https://space-deck.netlify.app/)                      | Nasa's Image of the Day                           |
+| [Gemini Chat App](https://geminix-pro.vercel.app/)                 | AI Chatbot (powered by Gemini)                    |
+| [Syntalix](https://www.syntalixai.in/)                             | Syntalix.AI official website                      |
+| [Anish Is Listening to](https://anish-is-listening-to.vercel.app/) | Fetches the songs im listening through Spotify    |
+| [Simplifyy](https://simplifyy.vercel.app/)                         | URL shortener and QR generator                    |
+| [PricePulse](https://price-trackerx.vercel.app/)                   | Amazon Price Tracker                              |
+| [Dall-e7](https://dall-e7.vercel.app/)                             | Create Images from text prompts                   |
+| [Certificate Generator](https://certificate-gen.netlify.app/)      | Generate a special certificate for yourself!      |
+| [Ada-7X ](https://ada-7x.netlify.app/)                             | Article summarizer by AI                          |
+| [Guess The number](https://guess-d-num.netlify.app/)               | A mini game Squid Game themed                     |
+| [Weather](https://yo-weather.vercel.app/)                          | Weather app in react                              |
+| [Gemini Astrologer](https://gemini-the-astro.vercel.app/)          | AI astrologer                                     |
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anish_biswas_7_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anishbiswas777) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xevenbiswas)
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anish_biswas_7_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anishbiswas777) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xevenbiswas)
 
 # 💻 Tech Stack:
 
@@ -121,15 +116,17 @@
 </div>
 
 ## Support Me / Buy me a coffee ;)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B4160H6Q)
 
-
 # 📊 GitHub Stats:
+
 [![anish77's GitHub | Stats](https://stats.quine.sh/anish77/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anish77)
 ![](https://github-readme-streak-stats.herokuapp.com/?username=Xeven777&theme=merko&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeven777&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Badges
+
 [![An image of @xeven777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xeven777)](https://holopin.io/@xeven777)
 
 <p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
@@ -149,18 +146,19 @@
 </div>
 
 ### LeetCode Stats
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/anishx7?theme=dark&font=montserrat&radius=6)
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=Xeven777&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-
-
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
 <!-- BIRTHDAY_MESSAGE_START -->
-### 364 days left until Anish's birthday!
+
+## Today's Anish's Birthday!✨🥳🥳
+
 <!-- BIRTHDAY_MESSAGE_END -->
----
