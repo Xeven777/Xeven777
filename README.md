@@ -1,5 +1,3 @@
-<img src="https://widgetbite.com/stats/Xeven777" alt="watching_count" />
-
 ![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fxeven777dea58.png?alt=media)
 
 <p><h1 align="center" style="text-decoration: none; cursor: none;">Hello Guys👋<br/></h1>
