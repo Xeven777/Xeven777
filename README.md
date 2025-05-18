@@ -158,5 +158,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- BIRTHDAY_MESSAGE_START -->
-### 203 days left until Anish's birthday!
+### 202 days left until Anish's birthday!
 <!-- BIRTHDAY_MESSAGE_END -->
