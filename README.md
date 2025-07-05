@@ -158,3 +158,7 @@
 <!-- BIRTHDAY_MESSAGE_START -->
 ### 155 days left until Anish's birthday!
 <!-- BIRTHDAY_MESSAGE_END -->
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Xeven777&label=Profile%20views&color=0e75b6&style=flat" alt="xeven777" /> </p>
+
