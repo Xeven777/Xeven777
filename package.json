@@ -1,6 +1,6 @@
 {
   "name": "xeven777",
- "module": "index.ts",
+  "module": "index.ts",
   "type": "module",
   "scripts": {
     "dev": "bun index.ts"
