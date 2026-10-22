@@ -120,7 +120,6 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Xeven777&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Xeven777&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Xeven777&repo=xeven777%2Fopeninstadm&show_owner=true&theme=ambient_gradient)](https://github.com/xeven777/openinstadm)
-
 ![xreenshoty](https://github-readme-stats.vercel.app/api/pin/?username=Xeven777&theme=omni&repo=xreenshoty)
 
 ![GitHub Streak Stats](https://streak-stats.demolab.com?user=xeven777&sideLabels=false&dates=false&theme=github-dark)
@@ -149,9 +148,9 @@
 
 [![An image of @xeven777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xeven777)](https://holopin.io/@xeven777)
 
-### LeetCode Stats
+<!-- ### LeetCode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/anishx7?theme=dark&font=montserrat&radius=6)
+![Leetcode Stats](https://leetcard.jacoblin.cool/anishx7?theme=dark&font=montserrat&radius=6) -->
 
 ### ✍️ Random Dev Quote
 

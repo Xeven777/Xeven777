@@ -29,37 +29,3 @@ jobs:
           git add README.md
           git commit -m "Updated README on $(TZ=Asia/Kolkata date +'%Y-%m-%d %H:%M')" || echo "No changes"
           git push origin main
-
-  generate-visuals:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      - name: Merge Outputs
-        run: |
-          mkdir -p out
-          cp -r dist/. out/
-          cp -r profile-3d-contrib/. out/
-
-      - name: Push Visuals to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: out
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
