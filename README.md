@@ -1,10 +1,5 @@
-
-
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fxeven777dea58.png?alt=media)
-
 <p><h1 align="center" style="text-decoration: none; cursor: none;">Hello Guys👋<br/></h1>
-<!-- <h2 align="center">I am Anish Biswas. Currently pursuing B.TECH in CSE at Techno Main Salt Lake.</h2></p> -->
-  
+
 <a href="https://anish7.me"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=35&pause=1000&color=16B9F7&width=435&lines=Im+Anish+Biswas+" alt="" /></a>
 
 ## 💫 About Me:
@@ -121,37 +116,18 @@
 
 # 📊 GitHub Stats:
 
-[![Xeven777's GitHub | Stats](https://stats.quine.sh/Xeven777/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Xeven777)
-![](https://github-readme-streak-stats.herokuapp.com/?username=Xeven777&theme=merko&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeven777&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Xeven777&layout=compact&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Xeven777&layout=compact&langs_count=6&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Xeven777&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Xeven777&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Xeven777&repo=xeven777%2Fopeninstadm&show_owner=true&theme=ambient_gradient)](https://github.com/xeven777/openinstadm)
 
 # Badges
 
 [![An image of @xeven777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xeven777)](https://holopin.io/@xeven777)
 
-<p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Xeven777&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">GitHub Trophies:</span></h2></p>
-
-![](https://github-profile-trophy.vercel.app/?username=xeven777&theme=merko&no-frame=false&no-bg=false&margin-w=4)
-
-### Last Listened to :
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31vzsladd5jbnxtgtmtnkml45km4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vzsladd5jbnxtgtmtnkml45km4&count=7&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ### LeetCode Stats
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/anishx7?theme=dark&font=montserrat&radius=6)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Xeven777&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 
