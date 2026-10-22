@@ -1,4 +1,4 @@
-<a href="https://anish7.me"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=35&pause=1000&color=16B9F7&width=435&lines=Hey+Guys!+Im+Anish+Biswas+" alt="" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Instrument+Sans&weight=600&size=32&letterSpacing=-2%25&duration=4500&pause=2000&color=58F716&width=520&lines=Hey+Guys!+Im+Anish+Biswas+%3A%29)](https://git.io/typing-svg)
 
 ## 💫 About Me:
 
