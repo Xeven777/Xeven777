@@ -121,6 +121,30 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Xeven777&repo=xeven777%2Fopeninstadm&show_owner=true&theme=ambient_gradient)](https://github.com/xeven777/openinstadm)
 
+![xreenshoty](https://github-readme-stats.vercel.app/api/pin/?username=Xeven777&theme=omni&repo=xreenshoty)
+
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=xeven777&sideLabels=false&dates=false&theme=github-dark)
+
+![Trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=Xeven777&theme=onedark)
+
+# 🕹 Contribution Visuals:
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xeven777&theme=radical&hide_border=true&custom_title=Commit%20Activity%20over%20Time)](https://github.com/Xeven777)
+
+### 🐍 Snake eating my contributions
+
+![Snake animation](https://raw.githubusercontent.com/Xeven777/Xeven777/output/github-contribution-grid-snake-dark.svg)
+
+### 🏙 3D Contribution Graph
+
+![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
+
+# 🗂 Profile Summary Cards:
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xeven777&theme=radical)
+
+![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xeven777&theme=github_dark&utcOffset=5.5)
+
 # Badges
 
 [![An image of @xeven777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xeven777)](https://holopin.io/@xeven777)
