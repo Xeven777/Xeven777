@@ -137,7 +137,7 @@
 
 ### 🏙 3D Contribution Graph
 
-![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
+![3D Contribution Graph](https://raw.githubusercontent.com/Xeven777/Xeven777/output/profile-3d-contrib/profile-green-animate.svg)
 
 # 🗂 Profile Summary Cards:
 
