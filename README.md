@@ -127,17 +127,17 @@
 
 ![Trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=Xeven777&theme=onedark)
 
-# 🕹 Contribution Visuals:
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xeven777&theme=radical&hide_border=true&custom_title=Commit%20Activity%20over%20Time)](https://github.com/Xeven777)
-
 ### 🐍 Snake eating my contributions
 
-![Snake animation](https://raw.githubusercontent.com/Xeven777/Xeven777/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xeven777/Xeven777/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xeven777/Xeven777/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xeven777/Xeven777/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ### 🏙 3D Contribution Graph
 
-![3D Contribution Graph](https://raw.githubusercontent.com/Xeven777/Xeven777/output/profile-3d-contrib/profile-green-animate.svg)
+![3D Contribution Graph](https://raw.githubusercontent.com/Xeven777/Xeven777/output/profile-green-animate.svg)
 
 # 🗂 Profile Summary Cards:
 
