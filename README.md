@@ -1,10 +1,37 @@
-<p><h1 align="center" style="text-decoration: none; cursor: none;">Hello Guys👋<br/></h1>
-
-<a href="https://anish7.me"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=35&pause=1000&color=16B9F7&width=435&lines=Im+Anish+Biswas+" alt="" /></a>
+<a href="https://anish7.me"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=35&pause=1000&color=16B9F7&width=435&lines=Hey+Guys!+Im+Anish+Biswas+" alt="" /></a>
 
 ## 💫 About Me:
 
-### I'm currently working on WebDev projects.<br>Learning React, Next.js, GSAP, Three.js, Astro and a lot more!<br>I love playing football and producing music too :)
+### I'm currently working on AI/ML & Agentic & WebDev projects.<br>Learning React, Next.js, GSAP, Three.js, Astro and a lot more!<br>I love playing football and producing music too :)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xeven777/Xeven777/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xeven777/Xeven777/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xeven777/Xeven777/output/github-contribution-grid-snake.svg" />
+</picture>
+
+
+# 📊 GitHub Stats:
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Xeven777&layout=compact&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Xeven777&layout=compact&langs_count=6&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Xeven777&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Xeven777&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Xeven777&repo=xeven777%2Fopeninstadm&show_owner=true&theme=ambient_gradient)](https://github.com/xeven777/openinstadm)
+![xreenshoty](https://github-readme-stats.vercel.app/api/pin/?username=Xeven777&theme=omni&repo=xreenshoty)
+
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=xeven777&sideLabels=false&dates=false&theme=github-dark)
+
+![Trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=Xeven777&theme=onedark)
+
+### 🏙 3D Contribution Graph
+
+![3D Contribution Graph](https://raw.githubusercontent.com/Xeven777/Xeven777/output/profile-green-animate.svg)
+
+# 🗂 Profile Summary Cards:
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xeven777&theme=radical)
+
+![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xeven777&theme=github_dark&utcOffset=5.5)
 
 ## Projects:
 
@@ -113,36 +140,6 @@
 ## Support Me / Buy me a coffee ;)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B4160H6Q)
-
-# 📊 GitHub Stats:
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Xeven777&layout=compact&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Xeven777&layout=compact&langs_count=6&theme=dark_github)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Xeven777&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Xeven777&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Xeven777&repo=xeven777%2Fopeninstadm&show_owner=true&theme=ambient_gradient)](https://github.com/xeven777/openinstadm)
-![xreenshoty](https://github-readme-stats.vercel.app/api/pin/?username=Xeven777&theme=omni&repo=xreenshoty)
-
-![GitHub Streak Stats](https://streak-stats.demolab.com?user=xeven777&sideLabels=false&dates=false&theme=github-dark)
-
-![Trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=Xeven777&theme=onedark)
-
-### 🐍 Snake eating my contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xeven777/Xeven777/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xeven777/Xeven777/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xeven777/Xeven777/output/github-contribution-grid-snake.svg" />
-</picture>
-
-### 🏙 3D Contribution Graph
-
-![3D Contribution Graph](https://raw.githubusercontent.com/Xeven777/Xeven777/output/profile-green-animate.svg)
-
-# 🗂 Profile Summary Cards:
-
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xeven777&theme=radical)
-
-![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xeven777&theme=github_dark&utcOffset=5.5)
 
 # Badges
 
